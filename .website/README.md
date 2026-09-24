@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - party
+  - shooter
 video: https://youtu.be/6wnvz107kKg
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
